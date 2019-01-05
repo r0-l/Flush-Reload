@@ -6,5 +6,5 @@ The label must be a string consisting of alphanumeric characters. The address mu
 
 Example to probe the addresses 0x4242 and 0xbeef with the labels 'foo' and 'bar' :
 ```
-./spy /path/to/binary foo:0x4242 bar:0xbeaf
+./spy /path/to/binary foo:0x4242 bar:0xbeef
 ```
